@@ -21,4 +21,6 @@ The number of weather data points collected in the months of June and December a
 ![Hawaii Weather Analysis for December](/Resources/Dec_temps_hawaii.png)
 
 ## Summary
+June is a warmer month overall than December in Hawaii, but not drastically so. June's max temp is 2 degrees hotter and it's also about 4 degrees warmer overall on average. December's minimum temp over the years included in this analysis was a full 8 degrees lower, so it can drop to a colder temperature in December than in June. 
 
+I would assume based on the warmer weather in June that the shop will sell more surfboards and ice cream in the summer versus the winter, but it still could make some money in the colder months. 
