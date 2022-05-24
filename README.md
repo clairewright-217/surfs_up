@@ -20,7 +20,17 @@ The number of weather data points collected in the months of June and December a
 
 ![Hawaii Weather Analysis for December](/Resources/Dec_temps_hawaii.png)
 
+### June Precipitation in Hawaii
+
+![Hawaii Precipitation Analysis for June](/Resources/June_prcp_hawaii.png)
+
+### December Precipitation in Hawaii
+
+![Hawaii Precipitation Analysis for December](/Resources/Dec_prcp_hawaii.png)
+
 ## Summary
 June is a warmer month overall than December in Hawaii, but not drastically so. June's max temp is 2 degrees hotter and it's also about 4 degrees warmer overall on average. December's minimum temp over the years included in this analysis was a full 8 degrees lower, so it can drop to a colder temperature in December than in June. 
 
-I would assume based on the warmer weather in June that the shop will sell more surfboards and ice cream in the summer versus the winter, but it still could make some money in the colder months. 
+December has more precipitation than June as well. The max precipitation measured in December was 6.42 compared to 4.43 max for June. December's average precipitation was higher as well, at 0.21 vs 0.14 for June. However, according to the quartile breakdown of precipitation data for December, at least a quarter of days have no precipitation, and the dryest 50% of days (bottom two quartiles) are very comparable to June, with 0.03 being the 50% quartile measurement for December and 0.02 being the 50% quartile measurement for June. Therefore at least half of the days of the month of December should be decently low precipitation. 
+
+I would assume based on the warmer and dryer weather in June that the shop will sell more surfboards and ice cream in the summer versus the winter, but it still could make some money in the colder and wetter months. 
